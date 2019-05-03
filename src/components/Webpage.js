@@ -9,5 +9,4 @@ export default class Webpage extends React.Component {
         <./FillerText.js>
         <./FillerText.js>
       (
-    }
-  })
+    )
