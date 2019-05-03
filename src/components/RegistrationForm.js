@@ -1,3 +1,3 @@
 <RegistrationForm>
   <form>
-    <input
+    <input type="text"
