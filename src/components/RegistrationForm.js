@@ -1,4 +1,6 @@
 <RegistrationForm>
   <form>
-    <input type="text" />
-    <input type="password"
+    <input type="text" value="text" />
+    <input type="password" value="password" />
+    <button
+    
