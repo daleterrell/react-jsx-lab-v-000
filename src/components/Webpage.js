@@ -1,13 +1,15 @@
-
 import React from 'react';
+
+import FillerText from './FillerText';
 
 export default class Webpage extends React.Component {
   render() {
     return (
-      <Webpage>
-        <title>The world's coolest webpage</title>
-        <./FillerText.js>
-        <./FillerText.js>
+      <div>
+        <h1>The world's coolest webpage</h1>
+        <FillerText />
+        <FillerText />
+      </div>
     )
   }
 }
